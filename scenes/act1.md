@@ -59,23 +59,23 @@ hong({body:"0_sammich"});
 ```
 
 {{if window.HACK_REPLAY.act1_ending=="fight"}}
-b: プレーヤーが僕たちをまたボールみたいにして泣かせるよ！！
+b: また俺たちはうずくまって泣くだろ！！
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: プレーヤーが君に発作を起こして君の携帯をぶち殺すよ！！
+b: あんたはパニックになってケータイぶっ壊すだろ！！
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: プレーヤーが僕たちにパーティーのホストを殴ら*ない*ようにするよ！！
+b: 俺たちがあのパーティーのホストを殴ら*ない*ようにするんだろ！！
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: プレーヤーが僕たちに同情を誘うアンチヴィランのパーティーのホストを殴らせる気だよ！！
+b: 僕たちは同情を誘うアンチヴィランのパーティーのホストを殴らせる気なんだよ！！
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
-h: いやでも屋上から飛び降りるとかはもうしないと思うからーーー
+h: いやでも屋上から飛び降りるとかはもうないと思うかーーー
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="walkaway"}}
