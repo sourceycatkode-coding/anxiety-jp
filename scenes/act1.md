@@ -24,7 +24,7 @@ n: _君_ は フアン だ
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: あっ！ またここに戻ってきたの？
+h: あっ！ 戻ってきたの？
 
 `hong({eyes:"0_neutral"})`
 
